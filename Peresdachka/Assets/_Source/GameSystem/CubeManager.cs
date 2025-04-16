@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using R3;
+using R3.Triggers;
 using UnityEngine.Pool;
 
 public class CubeManager : MonoBehaviour
